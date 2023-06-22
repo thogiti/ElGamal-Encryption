@@ -33,7 +33,7 @@ Alice->>Alice: Decrypt message with private key
 Note right of Alice: Decrypted message: M = (g^a)^(-b) * (M * (g^a)^b mod p) mod p
 ```
 
-The full article can be found at thogiti.github.io.
+The full article can be found at [thogiti.github.io](https://thogiti.github.io/unlocking-the-power-of-elgamal-encryption-implementing-and-enhancing-security-with-sagemath/).
 
 You can find the full code in the github repo [github.com/thogiti](https://github.com/thogiti/ElGamal-Encryption/blob/main/ElGamal-Encryption.sage).
 
